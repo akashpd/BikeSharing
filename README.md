@@ -22,14 +22,14 @@ The company wants to know:
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands
 
-What is the business probem that your project is trying to solve?
+### What is the business probem that your project is trying to solve?
 
 Business Goal:
 
 To model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 
-What is the dataset that is being used?
+### What is the dataset that is being used?
 
 Day.csv - Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
